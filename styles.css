@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #333;
+    background-color: lightblue;
+}
+
+h1.main-title {
+    font-size: 50px;
+    color: navy;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: left;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkslateblue;
+}
+
+.ingredients li {
+    list-style-type: circle;
+}
+
+li a {
+    text-decoration: none;
+    color:royalblue;
+}
+
+ul,
+ol {
+    margin: 0;
+    text-align: left;
+}
